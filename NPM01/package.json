@@ -1,0 +1,12 @@
+{
+  "name": "huyhue",
+  "version": "1.0.0",
+  "description": "Module de test upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huyhue",
+
+  "license": "ISC"
+}
